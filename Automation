@@ -1,1 +1,5 @@
+//div[contains(@class,'leaflet-marker-icon')]//svg[contains(@class,'svg-icon-svg')]//polygon
 
+
+
+//div[contains(@class,'leaflet-marker-icon') and contains(@class,'leaflet-interactive')]//polygon
